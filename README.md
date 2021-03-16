@@ -20,8 +20,7 @@
 
 <p align="center">
  <a href="#descricao">Descricão</a> •
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#preview">Preview</a> • 
+ <a href="#tecnologias">Tecnologias</a> •
  <a href="#executando">Executando</a> • 
  <a href="#contribuicao">Contribuição</a> • 
  <a href="#licenca">Licença</a> • 
@@ -35,13 +34,6 @@ Principais tecnologias utilizadas no desenvolvimento do projeto:
 - [TypeScript](https://www.typescriptlang.org/)
 - [SASS](https://sass-lang.com/)
 
-## 🔥 Preview <a name="preview"></a>
-
-<p align="center">
-  <a href="https://whatchme.netlify.app/" target="_blank">
-    <img alt="Demo on Netlify" src="https://i.ibb.co/b13vhFK/demo-on-netlify-bbuvjz.png">
-  </a>
-</p>
 
 ## 💻 Executando o WatchME<a name="executando"></a>
 
