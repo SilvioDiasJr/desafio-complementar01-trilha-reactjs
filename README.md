@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="WatchME" title="WatchME" src="./watchME.gif" width="800px">
+  <img alt="WatchME" title="WatchME" src="./watchME.gif" width="600px">
 </p>
 
 <h1 align="center">WatchME</h1>
