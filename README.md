@@ -8,7 +8,7 @@
 
 <p align="center">
   Primeiro desafio complementar do Ignite, objetivo era fazer a componentização da SideBar e Content.
-  A aplicação em si utiliza uma api fake e lista os filmes conforme o genero escolido pelo usuário.
+  A aplicação em si utiliza uma api fake e lista os filmes conforme o genero escolhido pelo usuário.
 </p>
 
 
